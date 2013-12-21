@@ -36,7 +36,9 @@
 ehthumbs.db
 Thumbs.db
 
-# Added by Fin
+# Added by Fin #
+################
 .classpath
 .project
 .settings/
+bin
