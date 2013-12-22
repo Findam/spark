@@ -38,7 +38,8 @@ Thumbs.db
 
 # Added by Fin #
 ################
+
 .classpath
-.project
+#.project
 .settings/
 bin
